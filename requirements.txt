@@ -1,8 +1,9 @@
-streamlit==1.38.0
-opencv-python==4.10.0.84
-mediapipe==0.9.3.0
+streamlit==1.50.0
+opencv-python==4.11.0.86
+mediapipe==0.10.21
 numpy==1.26.4
 pygame==2.6.1
+
 
 
 
